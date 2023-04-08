@@ -1,0 +1,51 @@
+.pictures{
+    margin-top: 40px;
+}
+
+.img-fluid col-md12 col-lg-12 col-xl-12 mx-auto mt-12{
+    padding-top: 0px;
+}
+
+.name{
+    
+    position:relative; left:30px; top:2px;
+    font-family: Garamond, serif;
+}
+
+#seal{
+    position:relative; top: -20px;
+}
+
+.h2{
+    margin-top: 40px;
+}
+
+.book{
+    margin-top: 40px;
+}
+
+.software{
+    margin-top: 40px;
+}
+
+.pb-4,.py-4 {
+    
+     padding-bottom:0rem!important
+    
+}
+
+h1{
+    font-family: Garamond, serif;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+
+.btn:hover{
+    color:white!important;
+    background-color: #002E5E;
+
+}
+
+
+
